@@ -1,0 +1,5 @@
+spring.datasource.username=
+spring.datasource.password=
+app.admin.default-email=
+app.admin.default-password=
+security.jwt.secret-key=
